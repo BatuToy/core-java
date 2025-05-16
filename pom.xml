@@ -14,8 +14,5 @@
 
   <url>https://maven.apache.org</url>
 
-  <modules>
-    <module>java-io-streams</module>
-  </modules>
 
 </project>
