@@ -18,14 +18,14 @@
     <dependencies>
       <dependency>
         <groupId>com.dev.batu</groupId>
-        <artifactId>collections</artifactId>
+        <artifactId>collections_java_1_8</artifactId>
         <version>${project.version}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
 
   <modules>
-    <module>collections</module>
+    <module>collections_java_1_8</module>
   </modules>
 
 </project>
